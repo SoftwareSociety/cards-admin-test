@@ -1,0 +1,14 @@
+{
+  "homeTitle": "Начало",
+  "createCardTitle": "Произведи карти",
+  "createdCardTitle": "Издадени карти",
+  "createCardFormLabel": "Брой",
+  "createCardAlertMessage": "Сигурен ли си, че искаш да пуснеш за производство {{cardsCounter}} карти?",
+  "createCardFormSubmit": "Произведи картите",
+  "createCardDropdownTitle": "Продукт",
+  "modalTitle": "Съобщение",
+  "modalClose": "Отказ",
+  "modalOk": "Продължи",
+  "create-cards": "Произведи карти",
+  "created-cards": "Издадени карти"
+}

@@ -1,0 +1,12 @@
+{
+  "homeTitle": "Home",
+  "createCardTitle": "Create cards",
+  "createdCardTitle": "Issued cards",
+  "createCardFormLabel": "Number",
+  "createCardAlertMessage": "Are you sure you want to create {{cardsCounter}} cards?",
+  "createCardFormSubmit": "Create cards",
+  "createCardDropdownTitle": "Product",
+  "modalTitle": "Message",
+  "modalClose": "Cancel",
+  "modalOk": "Continue"
+}
