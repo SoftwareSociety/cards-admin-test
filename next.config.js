@@ -1,7 +1,12 @@
 const { i18n } = require('./next-i18next.config')
 
 module.exports = {
-  useFileSystemPublicRoutes: false,
   reactStrictMode: true,
+  // trailingSlash: true,
   i18n,
+  exportPathMap: async function (defaultPathMap) {
+    return {
+      '/index.html': { page: '/' },
+    };
+  }
 }
